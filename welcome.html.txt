@@ -1,0 +1,5 @@
+# Welcome to My GitHub! 👋
+
+Hi there ! I'm Harshad Vanaliya, a passionate developer 👨‍💻 and a college student 🎓, currently working on exciting projects using the MERN stack (MongoDB, Express, React, Node.js) ⚙️. My focus is on building modern, scalable web applications 🌐, with a particular interest in real estate platforms 🏡 and user-centered designs 🎨.
+
+Feel free to explore my repositories 📂 and projects, and don’t hesitate to reach out for collaboration🤝 or feedback!!!
