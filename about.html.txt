@@ -1,0 +1,13 @@
+# About Me 🚀
+
+Hi! I’m Harshad Vanaliya, a developer 👨‍💻 and a college student 🎓 with a passion for creating efficient and modern web applications 🌐. My primary focus is on MERN stack development (MongoDB, Express, React, Node.js) ⚙️, where I work on building scalable, dynamic projects that solve real-world problems.
+
+I have a particular interest in Real Estate Platforms 🏡, and I love designing user-centered interfaces 🎨 that make an impact. In addition to my technical work, I'm always learning new technologies and exploring creative solutions to bring ideas to life.
+
+## Key Interests:
+- Full-Stack Web Development 💻
+- Real Estate Platforms 🏘️
+- User Experience & Design 🎨
+- Collaborating with other developers 🤝
+
+<img src="C:\Lerning\Sem 7\DEVOPS\Practicals\Harsh1.jpg">
